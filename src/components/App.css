@@ -1,0 +1,16 @@
+.stickyHeader {
+  background: white;
+  width: 100%;
+  /*   border: 2px solid pink; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  top: 0;
+  position: fixed;
+}
+
+hr {
+  height: 5px;
+  background: black;
+  width: 100%;
+}
