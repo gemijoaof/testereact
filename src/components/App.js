@@ -1,16 +1,16 @@
-import React, { useState } from "react";
-import "./App.css";
-import CardList from "./CardList";
-import SearchBox from "./SearchBox";
+import React, { useState } from 'react';
+import './App.css';
+import CardList from './CardList';
+import SearchBox from './SearchBox';
 
 const users = [
   {
-    name: "joao freitas",
-    email: "gemijoao@gmail.com"
+    name: 'joao freitas',
+    email: 'gemijoao@gmail.com'
   },
   {
-    name: "tiago freitas",
-    email: "gemitiago@gmail.com"
+    name: 'tiago freitas',
+    email: 'gemitiago@gmail.com'
   }
 ];
 
