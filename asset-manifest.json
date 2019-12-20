@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gemijoaof/testereact/static/css/main.4d275c77.chunk.css",
+    "main.js": "/gemijoaof/testereact/static/js/main.2f38b1dd.chunk.js",
+    "main.js.map": "/gemijoaof/testereact/static/js/main.2f38b1dd.chunk.js.map",
+    "runtime-main.js": "/gemijoaof/testereact/static/js/runtime-main.00fe786d.js",
+    "runtime-main.js.map": "/gemijoaof/testereact/static/js/runtime-main.00fe786d.js.map",
+    "static/js/2.64a586f9.chunk.js": "/gemijoaof/testereact/static/js/2.64a586f9.chunk.js",
+    "static/js/2.64a586f9.chunk.js.map": "/gemijoaof/testereact/static/js/2.64a586f9.chunk.js.map",
+    "index.html": "/gemijoaof/testereact/index.html",
+    "precache-manifest.b766d7986a7f63cd5763f41af71ca3ea.js": "/gemijoaof/testereact/precache-manifest.b766d7986a7f63cd5763f41af71ca3ea.js",
+    "service-worker.js": "/gemijoaof/testereact/service-worker.js",
+    "static/css/main.4d275c77.chunk.css.map": "/gemijoaof/testereact/static/css/main.4d275c77.chunk.css.map",
+    "static/js/2.64a586f9.chunk.js.LICENSE": "/gemijoaof/testereact/static/js/2.64a586f9.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00fe786d.js",
+    "static/js/2.64a586f9.chunk.js",
+    "static/css/main.4d275c77.chunk.css",
+    "static/js/main.2f38b1dd.chunk.js"
+  ]
+}
